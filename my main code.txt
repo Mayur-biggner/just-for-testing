@@ -2,8 +2,8 @@ hello i am learning git for 1st time
 
 git status
 git version
-git commit -m "name of the version or any thing else u want to give name"
 git add .
+git commit -m "name of the version or any thing else u want to give name"
 git init : "to Initialized empty Git repository "
 
   once only use " Add origin who saves over code online"
