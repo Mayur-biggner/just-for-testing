@@ -5,3 +5,5 @@ git version
 git commit -m "name of the version or any thing else u want to give name"
 git add .
 git init : "to Initialized empty Git repository "
+
+Add origin who saves over code online
