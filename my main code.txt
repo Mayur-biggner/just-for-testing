@@ -6,4 +6,5 @@ git commit -m "name of the version or any thing else u want to give name"
 git add .
 git init : "to Initialized empty Git repository "
 
-Add origin who saves over code online
+  once only use " Add origin who saves over code online"
+git diff    to check the difference old file and new file. 
