@@ -2,9 +2,12 @@ hello i am learning git for 1st time
 
 git status
 git version
-git add .
 git commit -m "name of the version or any thing else u want to give name"
+git add .
 git init : "to Initialized empty Git repository "
 
   once only use " Add origin who saves over code online"
 git diff    to check the difference old file and new file. 
+
+chrome ma git use kari ne file commite kari push pull bi kari pn 
+git bash ma git diff kariu to ae km batavta nahi k mai chrome ma su kariu change ae.
