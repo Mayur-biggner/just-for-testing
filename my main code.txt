@@ -8,6 +8,11 @@ git init : "to Initialized empty Git repository "
 
   once only use " Add origin who saves over code online"
 git diff    to check the difference old file and new file. 
+git diff "file name"
+git diff --staged "file name"
 
 chrome ma git use kari ne file commite kari push pull bi kari pn 
-git bash ma git diff kariu to ae km batavta nahi k mai chrome ma su kariu change ae.
+git bash ma git diff kariu to ae km batavta nahi k mai chrome ma su kariu change ae.ab hame galti se ku6 likh diya or usse vapas sahi karne k liye 
+git reset "file name"  unstaged karne k liye use hoga uske baad
+git checkout "file name" to see the all old files/(files are updated) 
+
