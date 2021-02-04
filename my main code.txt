@@ -1,9 +1,16 @@
+ls -la is use to see all the direcotries(aavu lakhvathi je te folder/repository ni badhi j files and folders display karse.)
+
+
 hello i am learning git for 1st time
 
 git status
 git version
 git commit -m "name of the version or any thing else u want to give name"
-git add .
+git add -A :is use to stage all files (jyare peli varr upload kariye tyare aa chale kmk aena thi badhi file stage thai jase tethi aapde aene commit kari sakisu)
+git add . :is use to stages new files, modified files  and not deleted file.(delete kareli file aama stage nai thai.)
+git add -u is use to  stages that files which are modified and deleted and not stages the new file(aano use karvathi aapde juni file ne update and deleted file ne stage kari sakhisu baki new banai yeli file ne stage nai kari sakiye)
+
+
 git init : "to Initialized empty Git repository "
 
   once only use " Add origin who saves over code online"
@@ -16,3 +23,14 @@ git bash ma git diff kariu to ae km batavta nahi k mai chrome ma su kariu change
 git reset "file name"  unstaged karne k liye use hoga uske baad
 git checkout "file name" to see the all old files/(files are updated) 
 
+git clone "ssh link paste here" . :aa code thi aapde git hub mathi koi bi code ne copy kari ne j te folder na git bash trough ae folder ma copy kari sakisu pn (ae folder ma navu folder banavse ae jo aapde folder banaya vagar data copy karvu hoi to link pa6i space aapi ne "."dot use karvathi ae j folder ma khali bdhi files copy thase)
+clone karva mate net joi yeh so sari speed hoi to j moti moti file download karvi.
+
+touch "file name" :is basically used to create a new file
+
+application-name file-name :is use to open the file on that application(aavu karvathi ae file ae application ma direct open thase)
+
+git rm --cached file-name :is use to remove from the .gitignore file which we are already tracked(aa file ne aapde tracked kari hoi and aene fari na karvi hoi aeni mate aene remove kari deva mate 6 jethi aene fari track na kare.)
+
+.gitignore file is used to ignore files like *.pyc ,*.sql,or any particular file name etc..(add this files name in .gitignore file so all the files name inside .gitignore file are would be tracked ever(kyarey trace nai kare.).)
+folder ignore karvu hoi to folder foldername/ 
